@@ -166,7 +166,7 @@ export const {
   deleteRow,
   archiveRow,
   updateRow,
-  updateStatistic
+  updateStatistic,
 } = tableSlice.actions;
 
 export default tableSlice.reducer;
