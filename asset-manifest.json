@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/radency-react-redux-2nd-task/static/css/main.a12949f7.chunk.css",
-    "main.js": "/radency-react-redux-2nd-task/static/js/main.67b675b7.chunk.js",
-    "main.js.map": "/radency-react-redux-2nd-task/static/js/main.67b675b7.chunk.js.map",
-    "runtime-main.js": "/radency-react-redux-2nd-task/static/js/runtime-main.5a007b24.js",
-    "runtime-main.js.map": "/radency-react-redux-2nd-task/static/js/runtime-main.5a007b24.js.map",
-    "static/js/2.6bc49b61.chunk.js": "/radency-react-redux-2nd-task/static/js/2.6bc49b61.chunk.js",
-    "static/js/2.6bc49b61.chunk.js.map": "/radency-react-redux-2nd-task/static/js/2.6bc49b61.chunk.js.map",
-    "index.html": "/radency-react-redux-2nd-task/index.html",
-    "static/css/main.a12949f7.chunk.css.map": "/radency-react-redux-2nd-task/static/css/main.a12949f7.chunk.css.map",
-    "static/js/2.6bc49b61.chunk.js.LICENSE.txt": "/radency-react-redux-2nd-task/static/js/2.6bc49b61.chunk.js.LICENSE.txt",
-    "static/media/editIcon.0f46e272.png": "/radency-react-redux-2nd-task/static/media/editIcon.0f46e272.png",
-    "static/media/idea.f08f9a7c.png": "/radency-react-redux-2nd-task/static/media/idea.f08f9a7c.png",
-    "static/media/task.63bf270c.png": "/radency-react-redux-2nd-task/static/media/task.63bf270c.png",
-    "static/media/thought.1666eb71.png": "/radency-react-redux-2nd-task/static/media/thought.1666eb71.png"
+    "main.css": "/react-2nd-task/static/css/main.a12949f7.chunk.css",
+    "main.js": "/react-2nd-task/static/js/main.67b675b7.chunk.js",
+    "main.js.map": "/react-2nd-task/static/js/main.67b675b7.chunk.js.map",
+    "runtime-main.js": "/react-2nd-task/static/js/runtime-main.a0c2638d.js",
+    "runtime-main.js.map": "/react-2nd-task/static/js/runtime-main.a0c2638d.js.map",
+    "static/js/2.6bc49b61.chunk.js": "/react-2nd-task/static/js/2.6bc49b61.chunk.js",
+    "static/js/2.6bc49b61.chunk.js.map": "/react-2nd-task/static/js/2.6bc49b61.chunk.js.map",
+    "index.html": "/react-2nd-task/index.html",
+    "static/css/main.a12949f7.chunk.css.map": "/react-2nd-task/static/css/main.a12949f7.chunk.css.map",
+    "static/js/2.6bc49b61.chunk.js.LICENSE.txt": "/react-2nd-task/static/js/2.6bc49b61.chunk.js.LICENSE.txt",
+    "static/media/editIcon.0f46e272.png": "/react-2nd-task/static/media/editIcon.0f46e272.png",
+    "static/media/idea.f08f9a7c.png": "/react-2nd-task/static/media/idea.f08f9a7c.png",
+    "static/media/task.63bf270c.png": "/react-2nd-task/static/media/task.63bf270c.png",
+    "static/media/thought.1666eb71.png": "/react-2nd-task/static/media/thought.1666eb71.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.5a007b24.js",
+    "static/js/runtime-main.a0c2638d.js",
     "static/js/2.6bc49b61.chunk.js",
     "static/css/main.a12949f7.chunk.css",
     "static/js/main.67b675b7.chunk.js"
